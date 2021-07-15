@@ -1,0 +1,30 @@
+{
+    "products":[
+        {
+            "productId":"80808",
+            "productName":"abc",
+            "shortDescription":"Prod1",
+            "price":200,
+            "productImage":"/images/prod1.jpeg",
+            "reviewRating":5,
+            "reviewCount":2,
+            "inStock":true
+
+        },
+        {
+            "productId":"807878708",
+            "productName":"def",
+            "shortDescription":"Prod2",
+            "price":200,
+            "productImage":"/images/prod2.jpeg",
+            "reviewRating":5,
+            "reviewCount":2,
+            "inStock":true
+
+        }
+    ],
+    "totalProducts":60,
+    "pageNumber":1,
+    "pageSize":20,
+    "statusCode":200
+}
